@@ -1,5 +1,5 @@
 {
-  "version": "2.4.85",
-  "url": "https://github.com/malelec23-hue/impresor-pro-updates/releases/download/v2.4.85/Impresor_Pro_v2.4.85.zip",
-  "notes": "OCR mejorado: PDF buscable conservando el original, revision de palabras dudosas y correccion ortografica."
+  "version": "2.4.86",
+  "url": "https://github.com/malelec23-hue/impresor-pro-updates/releases/download/v2.4.86/Impresor_Pro_v2.4.86.zip",
+  "notes": "OCR portable: Tesseract y los idiomas espanol e ingles ahora vienen incluidos; no requiere instalacion externa."
 }
