@@ -1,5 +1,5 @@
 {
-  "version": "2.4.76",
-  "url": "https://github.com/malelec23-hue/impresor-pro-updates/releases/download/v2.4.76/Impresor_Pro_v2.4.76.zip",
-  "notes": "Correcciones y mejoras."
+  "version": "2.4.77",
+  "url": "https://github.com/malelec23-hue/impresor-pro-updates/releases/download/v2.4.77/Impresor_Pro_v2.4.77.zip",
+  "notes": "Mejora visual: barra de progreso aproximada durante el envio de archivos."
 }
