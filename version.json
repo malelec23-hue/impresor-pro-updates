@@ -1,5 +1,5 @@
 {
-  "version": "2.4.102",
-  "url": "https://github.com/malelec23-hue/impresor-pro-updates/releases/download/v2.4.102/Impresor_Pro_v2.4.102.zip",
-  "notes": "Mejoras y correcciones: precios por tramos, paginas blancas Office/PDF y build release."
+  "version": "2.4.105",
+  "url": "https://github.com/malelec23-hue/impresor-pro-updates/releases/download/v2.4.105/Impresor_Pro_v2.4.105.zip",
+  "notes": "Soporte para cargar archivos ZIP/RAR en la lista principal y en el creador de PDF desde imagenes. Incluye mejoras recientes de precios, paginas blancas y build release."
 }
