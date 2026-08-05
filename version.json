@@ -1,5 +1,5 @@
 {
-  "version": "2.4.129",
-  "url": "https://github.com/malelec23-hue/impresor-pro-updates/releases/download/v2.4.129/Impresor_Pro_v2.4.129.zip",
-  "notes": "Ajustes de pantalla y sincronizacion entre PCs"
+  "version": "2.4.130",
+  "url": "https://github.com/malelec23-hue/impresor-pro-updates/releases/download/v2.4.130/Impresor_Pro_v2.4.130.zip",
+  "notes": "Sincronizacion en red local con mas tiempo de espera para PCs lentas y mejoras de conexion automatica."
 }
