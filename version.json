@@ -1,5 +1,5 @@
 {
-  "version": "2.4.131",
-  "url": "https://github.com/malelec23-hue/impresor-pro-updates/releases/download/v2.4.131/Impresor_Pro_v2.4.131.zip",
-  "notes": "Correccion de estabilidad del codigo de equipo para licencias; evita que una licencia valida quede como de otra PC por cambios de red/adaptador."
+  "version": "2.4.134",
+  "url": "https://github.com/malelec23-hue/impresor-pro-updates/releases/download/v2.4.134/Impresor_Pro_v2.4.134.zip",
+  "notes": "Correccion de estabilidad."
 }
