@@ -1,5 +1,5 @@
 {
-  "version": "2.4.130",
-  "url": "https://github.com/malelec23-hue/impresor-pro-updates/releases/download/v2.4.130/Impresor_Pro_v2.4.130.zip",
-  "notes": "Sincronizacion en red local con mas tiempo de espera para PCs lentas y mejoras de conexion automatica."
+  "version": "2.4.131",
+  "url": "https://github.com/malelec23-hue/impresor-pro-updates/releases/download/v2.4.131/Impresor_Pro_v2.4.131.zip",
+  "notes": "Correccion de estabilidad del codigo de equipo para licencias; evita que una licencia valida quede como de otra PC por cambios de red/adaptador."
 }
