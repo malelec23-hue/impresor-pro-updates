@@ -1,5 +1,5 @@
 {
-    "version":  "2.4.166",
-    "url":  "https://github.com/malelec23-hue/impresor-pro-updates/releases/download/v2.4.166/Impresor_Pro_v2.4.166.zip",
-    "notes":  "Desactiva Orden inverso en Epson con doble faz manual y motor directo para evitar conflicto con la compensacion interna de paginas."
+  "version": "2.4.200",
+  "url": "https://github.com/malelec23-hue/impresor-pro-updates/releases/download/v2.4.200/Impresor_Pro_v2.4.200.zip",
+  "notes": "Actualizacion acumulativa: mejoras en editor PDF, reparacion de PDFs, respuestas automaticas, controles de imagenes y ajustes visuales de interfaz."
 }
