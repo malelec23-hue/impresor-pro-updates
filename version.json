@@ -1,5 +1,5 @@
 {
-  "version": "2.4.200",
-  "url": "https://github.com/malelec23-hue/impresor-pro-updates/releases/download/v2.4.200/Impresor_Pro_v2.4.200.zip",
-  "notes": "Actualizacion acumulativa: mejoras en editor PDF, reparacion de PDFs, respuestas automaticas, controles de imagenes y ajustes visuales de interfaz."
+  "url": "https://github.com/malelec23-hue/impresor-pro-updates/releases/download/v2.5.0/Impresor_Pro_v2.5.0.zip",
+  "version": "2.5.0",
+  "notes": "Actualizacion mayor del editor PDF y OCR: mejoras acumuladas en reconstruccion OCR, Insertar, reparacion de PDFs, controles de paginas, imagenes, respuestas automaticas y ajustes visuales."
 }
