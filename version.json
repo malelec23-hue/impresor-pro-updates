@@ -1,5 +1,5 @@
 {
-  "url": "https://github.com/malelec23-hue/impresor-pro-updates/releases/download/v2.5.14/Impresor_Pro_v2.5.14.zip",
-  "version": "2.5.14",
+  "url": "https://github.com/malelec23-hue/impresor-pro-updates/releases/download/v2.5.17/Impresor_Pro_v2.5.17.zip",
+  "version": "2.5.17",
   "notes": "Actualizacion acumulada: overlay visual de carga para cargas automaticas y manuales, deteccion mas robusta de USB, giro auto en rangos avanzados, rutas de impresoras alternativas cuando una esta ocupada y ajustes recientes del editor PDF, reparacion, OCR, Insertar y respuestas automaticas."
 }
