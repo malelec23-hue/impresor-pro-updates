@@ -1,7 +1,7 @@
 {
-  "url": "https://github.com/malelec23-hue/impresor-pro-updates/releases/download/v2.6.47/Impresor_Pro_v2.6.47.zip",
-  "installer_url": "https://github.com/malelec23-hue/impresor-pro-updates/releases/download/v2.6.47/Impresor_Pro_Setup_v2.6.47.exe",
+  "url": "https://github.com/malelec23-hue/impresor-pro-updates/releases/download/v2.6.59/Impresor_Pro_v2.6.59.zip",
+  "installer_url": "https://github.com/malelec23-hue/impresor-pro-updates/releases/download/v2.6.59/Impresor_Pro_Setup_v2.6.59.exe",
   "installer_required": true,
-  "version": "2.6.47",
+  "version": "2.6.59",
   "notes": "Actualización acumulada. La versión portable se actualiza y completa automáticamente la instalación sin perder configuraciones, presets ni trabajos guardados."
 }
