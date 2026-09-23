@@ -1,7 +1,7 @@
 {
-  "url": "https://github.com/malelec23-hue/impresor-pro-updates/releases/download/v2.7.38/Impresor_Pro_v2.7.38.zip",
-  "installer_url": "https://github.com/malelec23-hue/impresor-pro-updates/releases/download/v2.7.38/Impresor_Pro_Setup_v2.7.38.exe",
+  "url": "https://github.com/malelec23-hue/impresor-pro-updates/releases/download/v2.7.40/Impresor_Pro_v2.7.40.zip",
+  "installer_url": "https://github.com/malelec23-hue/impresor-pro-updates/releases/download/v2.7.40/Impresor_Pro_Setup_v2.7.40.exe",
   "installer_required": true,
-  "version": "2.7.38",
+  "version": "2.7.40",
   "notes": "Correcciones varias"
 }
