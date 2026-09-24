@@ -1,7 +1,7 @@
 {
-  "url": "https://github.com/malelec23-hue/impresor-pro-updates/releases/download/v2.7.40/Impresor_Pro_v2.7.40.zip",
-  "installer_url": "https://github.com/malelec23-hue/impresor-pro-updates/releases/download/v2.7.40/Impresor_Pro_Setup_v2.7.40.exe",
+  "url": "https://github.com/malelec23-hue/impresor-pro-updates/releases/download/v2.7.41/Impresor_Pro_v2.7.41.zip",
+  "installer_url": "https://github.com/malelec23-hue/impresor-pro-updates/releases/download/v2.7.41/Impresor_Pro_Setup_v2.7.41.exe",
   "installer_required": true,
-  "version": "2.7.40",
-  "notes": "Correcciones varias"
+  "version": "2.7.41",
+  "notes": "Corrección botón Cancelar."
 }
