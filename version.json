@@ -1,7 +1,7 @@
 {
-  "url": "https://github.com/malelec23-hue/impresor-pro-updates/releases/download/v2.10.0/Impresor_Pro_v2.10.0.zip",
-  "installer_url": "https://github.com/malelec23-hue/impresor-pro-updates/releases/download/v2.10.0/Impresor_Pro_Setup_v2.10.0.exe",
+  "url": "https://github.com/malelec23-hue/impresor-pro-updates/releases/download/v2.11.0/Impresor_Pro_v2.11.0.zip",
+  "installer_url": "https://github.com/malelec23-hue/impresor-pro-updates/releases/download/v2.11.0/Impresor_Pro_Setup_v2.11.0.exe",
   "installer_required": true,
-  "version": "2.10.0",
-  "notes": " Correccione varias, impresión compuesta mejorada, Impresión doble farm anual mejorado. Y Rangos avanzados mejorado"
+  "version": "2.11.0",
+  "notes": " Corrupciones varias y cambios en la interfaz principal."
 }
